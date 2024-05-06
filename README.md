@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o *Yuri*!
+# 👋 Oie! Sou o *Yuri*!
 
-Bem-vindo ao meu perfil GitHub! Sou um estudante de programação.
+Bem-vindo ao meu perfil! Sou estudante de programação.
 
 ## 🚀 Tecnologias
 <div style="display: inline-block;">
@@ -11,6 +11,10 @@ Bem-vindo ao meu perfil GitHub! Sou um estudante de programação.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Logo CSS3" width="200" height="200" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Logo Java" width="200" height="200" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="Logo PHP" width="200" height="200" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" alt="Logo c#" width="200" height="200" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Logo Firebase" width="200" height="200" />
+
+
 
 </div>
 
