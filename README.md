@@ -1,4 +1,5 @@
 # 👋 Oie! Sou o *Yuri*!
+<img src="https://pa1.aminoapps.com/7478/043cc14c6f5a92f4c00b7f77a44d74e7bdd5d581r1-400-360_hq.gif" width="20%"/>
 
 Bem-vindo ao meu perfil! Sou estudante de programação.
 
