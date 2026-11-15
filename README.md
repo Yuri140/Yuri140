@@ -22,4 +22,4 @@ Bem-vindo ao meu perfil! Sou estudante de programação.
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Yuri140&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Yuri140&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000)
